@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Naiara
 
-<!--
-**nrbedin/nrbedin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer · Flutter · Android · Payments (TEF/POS) · IoT**
 
-Here are some ideas to get you started:
+I build Flutter apps that work with real hardware: Android POS terminals, self-service kiosks and BLE/MQTT devices. I design and implement them end to end, from architecture and native Android integrations in Java (Platform Channels) to multi-gateway payment flows, CI/CD and over-the-air updates.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I work with**
+
+- Payment integrations with multiple acquirers on Android POS terminals
+- Kiosk-mode apps with offline-first data and remote updates
+- BLE and MQTT devices with authenticated commands
+- CI/CD pipelines with GitHub Actions, Codemagic and Shorebird
+
+**Stack:** Flutter · Dart · Java (Android) · Node.js · MobX · Flutter Modular · SQLite · MQTT · BLE · GitHub Actions
+
+**Currently:** building open-source sample projects that show these patterns. They will be pinned here as they are published.
+
+[Portfolio](https://nrbedin.github.io) · [LinkedIn](https://www.linkedin.com/in/naiara-bedin/)
